@@ -1,0 +1,10 @@
+caption{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: bold;
+}
+th{
+  border: solid black 1px;
+}
+td{
+  border: solid black 1px;
+}
